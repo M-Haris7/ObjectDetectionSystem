@@ -1,3 +1,6 @@
+This project was made using Nicholas Renotte popular ReactComputerVisionTemplate. Here is the video tutorial for this project: https://youtu.be/uTdUUpfA83s?si=SUqT6LVGp-Ilcy2O
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
